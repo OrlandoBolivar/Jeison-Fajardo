@@ -101,7 +101,7 @@ section {
 }
 
 .projects {
-  display: flex;
+  display: inline-flexbox;
   justify-content: space-between;
   align-items: center;
   padding: 1%;
@@ -135,7 +135,7 @@ section {
 }
 
 .section2 img {
-  display: block;
+  display:inline-block;
   width: 35%;
   height: auto;
   position: relative;
